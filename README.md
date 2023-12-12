@@ -40,12 +40,12 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 
 6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
+```
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: Girithick Rohan
 RegisterNumber:  23003797
 */
-```
 module verilog1(a,b,c,d,w,x,y,z,F1,F2);
 input a,b,c,d,w,x,y,z;
 output F1,F2;
