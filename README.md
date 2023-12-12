@@ -70,15 +70,15 @@ endmodule
 
 ## RTL:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--02-Implementation-of-combinational-logic-/main/rtl.png)
 
 ## Timing Diagram:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--02-Implementation-of-combinational-logic-/main/mp.png)
 
 ## Truth Table:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--02-Implementation-of-combinational-logic-/main/tt.png)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
